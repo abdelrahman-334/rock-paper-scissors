@@ -1,0 +1,23 @@
+button
+{
+    padding:10px;
+}
+body
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: space-between;
+}
+
+div
+{
+    text-align: center;
+}
+.buttons
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:10px;   
+}
